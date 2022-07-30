@@ -16,7 +16,7 @@ A Tiktok App- Works on Android & iOS!
 - Displaying Followers, Following, Likes & Posts of User
 - TikTok Like UI
 
-## YouTube
+<!-- ## YouTube -->
 <!-- I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/4E4V9F3cbp4)  -->
 
 <!-- <p align="center"> -->
